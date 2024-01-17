@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/prueba-tecnica-vortex/static/css/main.80fb1b05.css",
+    "main.js": "/prueba-tecnica-vortex/static/js/main.5045abd1.js",
+    "index.html": "/prueba-tecnica-vortex/index.html",
+    "main.80fb1b05.css.map": "/prueba-tecnica-vortex/static/css/main.80fb1b05.css.map",
+    "main.5045abd1.js.map": "/prueba-tecnica-vortex/static/js/main.5045abd1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80fb1b05.css",
+    "static/js/main.5045abd1.js"
+  ]
+}
