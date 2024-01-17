@@ -1,8 +1,8 @@
 {
-  "name": "vortex-prueba-tecnica",
+  "name": "prueba-tecnica-vortex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://armandoricosandoval.github.io/vortex-prueba-tecnica",
+  "homepage": "https://armandoricosandoval.github.io/prueba-tecnica-vortex",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
